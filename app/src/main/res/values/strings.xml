@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Easy Supplement</string>
+
+
+    <!--Supplement Types-->
+    <string-array name="options">
+        <item>Proteins</item>
+        <item>Amino Acids</item>
+        <item>Performance Enhancers</item>
+        <item>Nitric Oxide</item>
+        <item>Testosterone Support</item>
+        <item>Fat Burners</item>
+        <item>Omega-3s</item>
+    </string-array>
+
+    <!--Protein Types-->
+    <string-array name="list_protein">
+        <item>Whey Protein</item>
+        <item>Casein Protein</item>
+        <item>Egg White Protein</item>
+        <item>Soy Protein</item>
+    </string-array>
+
+    <!--Protein Types-->
+    <string-array name="list_amino">
+        <item>BCAA</item>
+        <item>Protein Tablet</item>
+        <item>Glutamine</item>
+        <item>Taurine</item>
+    </string-array>
+
+
+    <!--Performance Enhancers-->
+    <string-array name="list_enhancers">
+        <item>Creatine</item>
+        <item>Beta-Alanine</item>
+        <item>D-Ribose</item>
+        <item>HMB</item>
+    </string-array>
+
+    <!--Nitric Oxide-->
+    <string-array name="list_no">
+        <item>Arginine</item>
+    </string-array>
+
+
+    <!--Testosteron Support-->
+    <string-array name="list_test">
+        <item>Tribulus</item>
+        <item>ZMA</item>
+        <item>Magnesuim</item>
+        <item>D-Aspartic Acid</item>
+        <item>L-Carnitine</item>
+    </string-array>
+
+    <!--Fat Burners-->
+    <string-array name="types_of_fat_burners">
+        <item>Green Tea Extract</item>
+        <item>Rasbery Ketons</item>
+        <item>Caffeine</item>
+        <item>CLA</item>
+        <item>Green Coffee Bean Extract</item>
+    </string-array>
+
+    <!--Omega3-->
+    <string-array name="types_of_omega">
+        <item>Fish Oil</item>
+
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
