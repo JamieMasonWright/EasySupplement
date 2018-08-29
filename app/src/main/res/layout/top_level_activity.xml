@@ -10,10 +10,11 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:contentDescription="Logo"
-        android:src="@drawable/main_home_pic"
+        android:layout_height="226dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/sport_1201014_1920"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
