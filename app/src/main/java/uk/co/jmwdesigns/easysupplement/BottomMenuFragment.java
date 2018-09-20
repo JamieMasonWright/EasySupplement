@@ -18,7 +18,6 @@ import android.widget.TextView;
 public class BottomMenuFragment extends Fragment {
 
     private ImageButton mHome;
-    private TextView mLengthTest;
 
 
 
