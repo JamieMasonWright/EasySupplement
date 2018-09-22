@@ -43,14 +43,8 @@ public class BottomMenuFragment extends Fragment {
                 Intent intent = new Intent(getActivity(), TopLevelActivity.class);
                 startActivity(intent);
                 return;
-
             }
         });
-
-
-
-
-
         return view;
     }
 
